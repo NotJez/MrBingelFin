@@ -1,3 +1,5 @@
+Ihan ensiksi lataa Mr. Bingelin source koodi osoitteesta: https://bit.ly/3c3A5DI .
+
 Tervetuloa käyttämään Mr. Bingel bottia.
 Et pääse sentään hallitsemaan Mr. Bingeliä.
 Tämä on vain source koodi Mr. Bingelistä.
